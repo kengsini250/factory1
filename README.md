@@ -1,2 +1,2 @@
 # factory
-工厂模式（Factory Pattern）
+(简单)工厂模式（Factory Pattern）
